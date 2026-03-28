@@ -1,0 +1,23 @@
+﻿# Stay Safe Online Checklist
+
+
+
+
+## Prevention Tips for College Students in India
+1. Use strong and unique passwords for email accounts, social media, bank accounts, and college accounts.
+2. Activate 2FA whenever possible to strengthen account security.
+3. Never disclose your OTP, UPI PIN, CVV, ATM PIN, or passwords to anyone, even if they claim to represent the bank.
+4. Refrain from scanning unknown QR codes or authorizing UPI collect requests unless you're making a payment.
+5. Always be cautious while clicking on links sent through SMS, WhatsApp, email, or social media.
+6. Refrain from downloading apps or APK files from unknown websites and only download them from the app store.
+7. Ensure timely updates for your phone, laptop, browser, and antivirus to keep them safe from security threats.
+8. While accessing the internet through public Wi-Fi, refrain from accessing banking apps or making transactions.
+9. Regularly check account statements and UPI transactions to monitor any suspicious transactions.
+10. Refrain from divulging personal details such as phone numbers, addresses, college ID cards, travel plans, and documents online.
+
+
+
+
+## What to Do if You Become a Victim
+- Immediately contact the Cyber Crime Helpline Number: **1930**
+- File a complaint
